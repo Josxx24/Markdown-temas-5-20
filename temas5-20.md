@@ -3,8 +3,11 @@
 Es la forma completa del entorno de desarrollo integrado, los programadores utilizan esta plataforma digital para software, hardware y otras tareas de desarrollo de programas.
 Dicha herramienta ayuda a escribir y desarrollar nuevas aplicaciones sin una configuración manual ni integración de características, también son eficientes en la edición, compilación y depuración de código.
 [![IDE](https://www.headsem.com/wp-content/uploads/2017/05/eclipse-ide.png)](https://www.headsem.com/wp-content/uploads/2017/05/eclipse-ide.png)
+
 ## **Las funciones de los IDE**
+
 Hacen que el proceso de desarrollo sea más rápido y fácil para los programadores. En él, puede obtener acceso a las herramientas y paquetes más populares en un solo lugar. La USP de un IDE es ofrecer la máxima comodidad a los usuarios durante la codificación y el desarrollo.
+
 [![funciones IDE](https://blog.bricogeek.com/img_cms/3234-arduino-pro-ide-un-editor-avanzado-con-funciones-mas-completas.jpg)](https://blog.bricogeek.com/img_cms/3234-arduino-pro-ide-un-editor-avanzado-con-funciones-mas-completas.jpg)
 ------
 # **Introducción a c, variables, palabras reservadas**
