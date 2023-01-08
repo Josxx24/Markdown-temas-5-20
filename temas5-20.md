@@ -2,6 +2,7 @@
 ## **¿Que son los IDE?**
 Es la forma completa del entorno de desarrollo integrado, los programadores utilizan esta plataforma digital para software, hardware y otras tareas de desarrollo de programas.
 Dicha herramienta ayuda a escribir y desarrollar nuevas aplicaciones sin una configuración manual ni integración de características, también son eficientes en la edición, compilación y depuración de código.
+
 [![IDE](https://www.headsem.com/wp-content/uploads/2017/05/eclipse-ide.png)](https://www.headsem.com/wp-content/uploads/2017/05/eclipse-ide.png)
 
 ## **Las funciones de los IDE**
